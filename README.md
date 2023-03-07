@@ -1,2 +1,2 @@
 # FlappyBird-JavaScript
-Jogo FlappyBird reproduzindo utilizando JavaScript, CSS e HTML
+Jogo FlappyBird desenvolvido utilizando JavaScript, CSS e HTML.
